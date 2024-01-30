@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Luara
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning R and sta
-- tistic
+- 🌱 I’m currently learning R and statistic
 - ⚡ Fun fact: I can spaek four languages
 
 <!---
